@@ -1,0 +1,6 @@
+{
+	"ip":"tephc.pl",
+	"port": "25565"
+	"name": "afkbot",
+	"auto-night-skip":"true"
+}
